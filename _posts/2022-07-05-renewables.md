@@ -3,7 +3,7 @@ toc: true
 layout: post
 categories: [renewables]
 tags: [green energy]
-title: The Booming Renewables SPace
+title: The Booming Renewables Space
 ---
 
 ## Background
