@@ -3,7 +3,7 @@ toc: true
 layout: post
 categories: [finance, mutual funds]
 tags: [mutual funds]
-title: Types of mutual funds
+title: A ready reckoner for mutual funds
 ---
 
 Ever wondered what’s a guaranteed path to get rich? What looks like a straight path is a simple two-step process - saving and investing. Saving is the easier of the two steps, but when it comes to investing, one, people have apprehensions, and two, there is risk involved. Mutual Funds are an excellent way to tackle this risk and grow wealth over time.

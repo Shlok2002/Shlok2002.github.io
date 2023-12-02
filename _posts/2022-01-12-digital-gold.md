@@ -3,8 +3,8 @@ toc: true
 layout: post
 description:  Digital gold investing basics
 categories: [finance, digital gold]
-tags: [digital gold]
-title: What is digital gold?
+tags: [investing]
+title: Digital gold investing basics
 ---
 
 ## Introduction
