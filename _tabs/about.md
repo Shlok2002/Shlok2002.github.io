@@ -6,56 +6,44 @@ order: 4
 
 <p style="text-align:justify">
 
-                    I'm an undergraduate student majoring in electrical and electronics engineering at 
-                Shiv Nadar Institution of Eminence. 
-                I'm passionate about using data to tackle complex challenges in renewable energy, green finance, and financial technology.
+                 
+<p>
+  I am currently pursuing an <strong><a href="https://msba.nus.edu.sg/" target="_blank">M.S. in Business Analytics (MSBA)</a></strong> at the <strong><a href="https://www.nus.edu.sg/" target="_blank">National University of Singapore (NUS)</a></strong>. My academic journey is enriched by the joint expertise of <strong><a href="https://bschool.nus.edu.sg/" target="_blank">NUS Business School</a></strong> and <strong><a href="https://www.comp.nus.edu.sg/" target="_blank">NUS Computing</a></strong>, enabling me to bridge the gap between cutting-edge analytics and real-world business challenges.
+</p>
+
             
  </p>
 
 
-<p style="text-align:justify">
+<p style="text-align:justify;">
 
-
-
-
-
-                I am an upcoming Winter Analyst Intern (Jan'24) at <a class="in-text" href="https://www.bain.com" target="_blank">Bain & Company</a>. I will be joining their data
-                and insights team in New Delhi, where I'll be diving into the world of analytics to uncover meaningful insights.
-
-                During the summer of 2023, I interned at <a class="in-text" href="https://www.paisabazaar.com" target="_blank">Paisabazaar.com</a>, where I developed production-ready prediction models for credit card limit prediction and disbursals. 
-
+<p>
+  I am a data analyst (intern) at <strong><a href="https://artafinance.com/" target="_blank">Arta Finance</a></strong>. This hands-on role allows me to deepen my understanding of the finance industry, particularly in data-driven decision-making, while directly impacting Arta's growth trajectory.
+</p>
 
 
 </p>
 
 <p style="text-align:justify">
 
-                I was an <a class="in-text"
-                href="https://snu.edu.in/research/research-excellence-initiatives/" target="_blank">OUR</a> candidate (2022-23) in the <a class="in-text"
-                href="https://snu.edu.in/schools/school-of-management-and-entrepreneurship/" target="_blank">School of Management and Entrepreneurship</a> at Shiv Nadar Institution of Eminence, 
-                under the guidance of <a class="in-text"
-                href="https://snu.edu.in/schools/school-of-management-and-entrepreneurship/faculty/satyam-mukherjee/" target="_blank"> Dr. Satyam Mukherjee.</a> Our research primarily revolved around the convergence of network sciences and data analytics, 
-                with a specific focus on transportation networks and smart city research.
+  Before joining NUS, I gained valuable experience as an Analyst Intern at <strong><a href="https://www.bain.com/" target="_blank">Bain & Company</a></strong> in New Delhi, specializing in data & technology within the performance improvement practice. My work focused on enhancing operations excellence benchmarking capabilities and leading procurement-related cost transformation projects, including Bain’s proprietary <strong><a href="https://www.bain.com/insights/buy-better-spend-better/" target="_blank">Buy Better + Spend Better®</a></strong> framework.
+
+
 </p> 
 
 <p style="text-align:justify">
 
-                My work experiences have been diverse, spanning technical, business, and marketing roles. 
-                I interned as a ML engineering intern at <a class="in-text" href="https://www.transorg.com/" target="_blank">TransOrg Analytics.</a> 
-                I also worked part-time at <a class="in-text" href="https://spenny.com/" target="_blank">Spenny (acquihired by CRED) </a>, a Y-combinator backed micro-savings app.  
-                Additionally, before starting university, I completed a two-week internship in the engineering department at <a class="in-text" href="https://www.itchotels.com/in/en"
-                target="_blank">ITC Hotels</a>, where I focused on sustainable practices.
+  Previously, I interned at <strong><a href="https://www.paisabazaar.com/" target="_blank">Paisabazaar.com</a></strong>, India's largest and most trusted platform for financial products, developing prediction models for credit card limits and disbursals. I also interned at <strong><a href="https://www.transorg.com/" target="_blank">TransOrg Analytics</a></strong> and worked part-time at <strong><a href="https://www.spennyapp.com/" target="_blank">Spenny</a></strong> (now part of <strong><a href="https://cred.club/" target="_blank">CRED</a></strong>), a Y-combinator backed micro-savings app.
+
+
+
+               
 </p> 
 
 
-<p style="text-align:justify">
+### Contact Information
 
-                Outside of academics, I'm an avid F1 racing fan, and I have a keen interest in finance, considering myself a long-term investor.
-                I enjoy reading on a wide range of topics and am a member of the university track team.
-                     
-                       I am best reached by email at <a class="in-text" href="mailto:ks649@snu.edu.in">ks649@snu.edu.in</a>. 
-                       Feel free to reach out about my research or anything else I might be able to help with.
-                     
-                       
-                
- </p>
+- **Email**: [shlok.kamat@comp.nus.edu.sg](mailto:shlok.kamat@comp.nus.edu.sg)  
+Feel free to reach out about my research or anything else I might be able to help with.
+
+- **CV**: Check out my [CV](#) for more details.
