@@ -9,7 +9,7 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone: Asia/Calcutta
+timezone: Asia/Singapore
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
@@ -19,7 +19,7 @@ title: Shlok Kamat # the main title
 tagline: Analytics, Finance & Green Energy # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A colletion of blogs by Shlok Kamat
+  A collection of blogs by Shlok Kamat
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.

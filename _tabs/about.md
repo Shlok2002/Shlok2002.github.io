@@ -46,4 +46,4 @@ order: 4
 - **Email**: [shlok.kamat@comp.nus.edu.sg](mailto:shlok.kamat@comp.nus.edu.sg)  
 Feel free to reach out about my research or anything else I might be able to help with.
 
-- **CV**: Check out my [CV](#) for more details.
+- **CV**: Check out my [CV]() for more details.
