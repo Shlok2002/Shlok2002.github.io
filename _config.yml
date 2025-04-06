@@ -16,7 +16,7 @@ timezone: Asia/Singapore
 
 title: Shlok Kamat # the main title
 
-tagline: Analytics, Finance & Green Energy # it will display as the sub-title
+tagline: Finance, Analytics, Technology & Food # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A collection of blogs by Shlok Kamat
@@ -78,7 +78,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://shlok-kamat.github.io/images/pp18.png
+avatar: https://shlok-kamat.github.io/images/pp16.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true
